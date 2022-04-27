@@ -11,8 +11,7 @@ body {
   border: 3px;
   border-color: gray;
   background-color: white;
-  width: 600px;
-  height: 600px;
+
   margin: 30px;
   border-radius: 20px;
   box-shadow: 0 0 5px 2px lightgray;
@@ -40,7 +39,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  box-shadow: 0 0 2px 3px lightgray;
+  border-color: gray;
   border-radius: 10px;
   font-family: "Bebas Neue", cursive;
   font-size: 20pt;
